@@ -15,7 +15,13 @@ public class JavaApplication45 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.print("HOLA GitHub.com WELCOME TO THE ALONS WORLD");
+        for(int i = 0; i<=2; i++){
+            if(i==0){
+                System.out.print("HOLA GitHub.com WELCOME TO THE ALONS WORLD");
+            }else{
+                System.out.print("HOLA NetBeansIDE WELCOME TO THE ALONS WORLD");
+            }
+        }
     }
     
 }
