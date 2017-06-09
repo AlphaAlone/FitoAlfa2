@@ -15,7 +15,7 @@ public class JavaApplication45 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        System.out.print("HOLA GitHub.com WELCOME TO THE ALONS WORLD");
     }
     
 }
